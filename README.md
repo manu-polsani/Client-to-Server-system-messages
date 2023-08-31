@@ -2,7 +2,7 @@
 In this repo, we shall see how to send a message from server repo to client repo and vice versa
 
 
-##How to get the IP address and port number of your system?
+## How to get the IP address and port number of your system?
 
 Use the command
 ```bash
